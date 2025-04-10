@@ -796,7 +796,12 @@ document.addEventListener("DOMContentLoaded", function () {
         " Khô Lâu Đà Chủ xuất hiện trong bộ phim hoạt hình nào dưới đây ?",
       answer: "Võ Thần Chúa Tể",
     },
-    
+    {
+      id: 149,
+      question:
+        "Nhân vật chính của \"Thần Ấn Vương Tọa\" là ai?",
+      answer: "Long Hạo Thần",
+    },
   ];
 
   // Hàm hiển thị câu hỏi
